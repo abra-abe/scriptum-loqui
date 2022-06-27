@@ -1,4 +1,5 @@
 # scriptum-loqui
+Written in python, 
 Converts written text from an image or video (live feed) into speech
 It makes use of cv2 for image and video processing
 Tesseract OCR, for text detection
